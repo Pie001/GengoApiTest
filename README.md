@@ -1,6 +1,6 @@
 # GengoApiTest
 
-[Unittestを触ってみた](UNITTEST.md)
+別記事：[Unittestを触ってみた](UNITTEST.md)
 
 ## Gengo APIの検証環境「Sandbox」を利用して仮の認証と注文を行う
 
