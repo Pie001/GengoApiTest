@@ -12,7 +12,7 @@ Pythonは動的型言語(dynamic programming language)なので、実行のタ�
 
 ## 事前準備
 - tests.pyを作業フォルダーにコピーしてGengoUnitTests.pyに名前を変更
-- 必要があればGengoUnitTests.pyをpython3に実行するよう設定しておく(私はpython3の環境なのでこの作業が必要だった)
+- 私の場合、実行はPython3で行う
 
 ## 単体テスト
 
