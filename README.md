@@ -1,5 +1,7 @@
 # GengoApiTest
 
+[Unittestを触ってみた](UNITTEST.md)
+
 ## Gengo APIの検証環境「Sandbox」を利用して仮の認証と注文を行う
 
 Pythonの勉強を兼ねて、Gengoというクラウドソーシングの翻訳サービスのAPIの検証環境を使ってみたのでその流れをまとめてみました。
