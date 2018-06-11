@@ -1,6 +1,10 @@
 # Unittestを触ってみた
 
-[gengo-python](https://github.com/gengo/gengo-python)の```/tests/tests.py```を使って単体テストをやってみた。
+別記事：[Gengo APIの検証環境「Sandbox」を利用して仮の認証と注文を行う](README.md)
+
+------------------
+
+[gengo-python](https://github.com/gengo/gengo-python)では単体テスト用コードを提供しているので、```/tests/tests.py```を使って単体テストをやってみた。
 
 Pythonは動的型言語(dynamic programming language)なので、実行のタイミングにエラーが発覚する可能性が多いため(特にType Error...)、C#やJavaみたいにコンパイルできればある程度は動作に対する保証(?)ができる静的型言語(statically typed language)とは異なる。
 
